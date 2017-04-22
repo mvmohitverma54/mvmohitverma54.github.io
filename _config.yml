@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and  liquid html tags  and what else , just enjot this blog  fellas  --- Mohit Verma .
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "https://localhost:4000" # the base hostname & protocol for your site
 twitter_username: mmohitverma54 
 github_username:  mvmohitverma54
 disqus_username:

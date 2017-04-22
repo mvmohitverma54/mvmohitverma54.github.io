@@ -24,8 +24,8 @@ An Undergraduate Engineering student of [Arya college of Engineering and I.T](ht
  - NPM MODULES SCRIPTING
  - NETLIFY ( content management system for static site like jekyll , middleman , hexo , grow )
 
-[Projects](http://resume.github.io/?mvmohitverma54) <-- all projects are mentioned in this automated resume generator.  
+[Projects](https://resume.github.io/?mvmohitverma54) <-- all projects are mentioned in this automated resume generator.  
 
 You can find the source code for this project  at
 {{site.github_username}} /
-[jekyll](https://github.com/mvmohitverma54/jekyll)
+[jekyll](https://github.com/mvmohitverma54/mvmohitverma54.github.io)
