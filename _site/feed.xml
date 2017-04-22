@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohit blog</title>
+    <description>This is my site made with &quot;Jekyll&quot; and hosted on github , i tried to make it  in Windows ( pain in ass because jekyll is not supported for Windows so any flaws  in this site is accepted ), i made this blog with full dedication and run various dependencies and wrote a few npm scipts as well , it was a new experience as it has Sass preprocessor and  liquid html tags  and what else , just enjot this blog  fellas  --- Mohit Verma .
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Apr 2017 12:43:26 +0530</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2017 12:43:26 +0530</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Hyper Text Markup Language ( HTML)</title>
+        <description>&lt;p&gt;HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://diveintohtml5.info/&quot;&gt;Dive Into HTML5 (Book)&lt;/a&gt;&lt;/strong&gt;: Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://google.github.io/styleguide/htmlcssguide.xml&quot;&gt;Google HTML/CSS Style Guide&lt;/a&gt;&lt;/strong&gt;: This document defines formatting and style rules for HTML and CSS. It aims at improving collaboration, code quality, and enabling supporting infrastructure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/joshbuchea/HEAD&quot;&gt;HEAD&lt;/a&gt;&lt;/strong&gt;: A list of everything that could go in the &amp;lt;head&amp;gt; of your document.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/necolas/idiomatic-html&quot;&gt;Idiomatic HTML&lt;/a&gt;&lt;/strong&gt;: The following document outlines a reasonable style guide for HTML development. These guidelines strongly encourage the use of existing, common, sensible patterns. They should be adapted as needed to create your own style guide.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Video &amp;amp; Audio&lt;/strong&gt;: Use the  HTML video and audio element to embed video content in a document.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/04/html5-media-source-extensions-bringing-production-video-web/&quot;&gt;Bringing Production Video To The Web&lt;/a&gt;&lt;/strong&gt;: Stefan Lederer gives you a good overview of the state and future of video on the web.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/&quot;&gt;Wordpress HTML Coding Standards&lt;/a&gt;&lt;/strong&gt;: Coding conventions for WordPress.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Apr 2017 18:39:47 +0530</pubDate>
+        <link>http://localhost:4000/posts/es6/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/es6/</guid>
+        
+        <category>front-end</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Cascading Style Sheets( CSS)</title>
+        <description>&lt;p&gt;CSS are a stylesheet language used to describe the presentation of a document written in HTML or XML. It describes how elements should be rendered on screen, on paper, in speech, or on other media.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CSS Coding Conventions&lt;/strong&gt;: Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices and methods for each aspect of a piece program written in this language.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://cssguidelin.es/&quot;&gt;CSS Guidelines&lt;/a&gt;&lt;/strong&gt;: High-level advice and guidelines for writing sane, manageable, scalable CSS.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/necolas/idiomatic-css&quot;&gt;Idiomatic CSS&lt;/a&gt;&lt;/strong&gt;: The following document outlines a reasonable style guide for CSS development. These guidelines strongly encourage the use of existing, common, sensible patterns.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://maintainablecss.com/&quot;&gt;Maintainable CSS&lt;/a&gt;&lt;/strong&gt;: MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://primercss.io/&quot;&gt;Primer&lt;/a&gt;&lt;/strong&gt;: Primer is GitHub’s internal CSS framework. It includes basic global styling for typography, small components like buttons and tabs, and our general guidelines for writing HTML and CSS.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/&quot;&gt;Wordpress CSS Coding Standards&lt;/a&gt;&lt;/strong&gt;: The purpose of the WordPress CSS Coding Standards is to create a baseline for collaboration and review within various aspects of the WordPress open source project and community, from core code to themes to plugins.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://drafts.csswg.org/css-variables/&quot;&gt;CSS Variables W3C Editor’s Draft&lt;/a&gt;&lt;/strong&gt;: This module introduces cascading variables as a new primitive value type that is accepted by all CSS properties, and custom properties for defining them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flexbox&lt;/strong&gt;: The Flexbox Layout officially called CSS Flexible Box Layout Module is new layout module in CSS3 made to improve the items align, directions and order in the container even when they are with dynamic or even unknown size.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://tutorialzine.com/2016/04/5-flexbox-techniques-you-need-to-know-about/&quot;&gt;5 Flexbox Techniques You Need to Know About&lt;/a&gt;&lt;/strong&gt;: In this article we’re going to take a look at five flexbox approaches to solving common CSS layout problems. We’ve also included practical examples to showcase real life scenarios in which these techniques are applied.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://css-tricks.com/snippets/css/a-guide-to-flexbox/&quot;&gt;A Complete Guide to Flexbox&lt;/a&gt;&lt;/strong&gt;: Chris Coyer provides a great reference to the flexbox features with code examples.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties&quot;&gt;A Visual Guide to CSS3 Flexbox Properties&lt;/a&gt;&lt;/strong&gt;: Rather that explaining how the flex properties work, this guide will focus on how the flex properties affect the layout in a visual way.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.w3.org/TR/css-flexbox-1/&quot;&gt;CSS Flexible Box Layout Module Level 1&lt;/a&gt;&lt;/strong&gt;: W3C specification for CSS flexbox.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://css-tricks.com/flex-grow-is-weird/&quot;&gt;Flex-Grow is weird. Or is it?&lt;/a&gt;&lt;/strong&gt;: Manuel Matuzovic describes how flex-grow works, including it’s weird quirks. Then he goes into several examples on how common layout patterns may be implemented using flex-grow and flex-basis.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt;&lt;/strong&gt;: A fun way to learn Flexbox by playing a game where you help Froggy and friends to arrive at a lilypad.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.flexboxpatterns.com/&quot;&gt;Flexbox Patterns&lt;/a&gt;&lt;/strong&gt;: These interactive examples will show you practical ways to use Flexbox to build UI components.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/philipwalton/flexbugs&quot;&gt;Flexbugs&lt;/a&gt;&lt;/strong&gt;: This repository is a community-curated list of flexbox issues and cross-browser workarounds for them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://howtocenterincss.com/&quot;&gt;How To Center in CSS&lt;/a&gt;&lt;/strong&gt;: This tool consolidates the many ways of centering a div and gives you the code you need for each situation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.tipue.com/blog/center-a-div/&quot;&gt;The Complete Guide to Centering a DIV&lt;/a&gt;&lt;/strong&gt;: The aim of this article is to show how, with a few CSS tricks, any div can be centered; horizontally, vertically or both. And within the page or a div.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://css-tricks.com/understanding-border-image/&quot;&gt;Understanding border-image&lt;/a&gt;&lt;/strong&gt;: The new CSS3 property border-image can allow you to create flexible boxes with custom borders with a single div and a single image.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://philipwalton.com/articles/what-no-one-told-you-about-z-index/&quot;&gt;What No One Told You About Z-Index&lt;/a&gt;&lt;/strong&gt;: The problem with z-index is that it’s not complicated, but it if you’ve never taken the time to read its specification, there are almost certainly crucial aspects that you’re completely unaware of.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Apr 2017 18:39:47 +0530</pubDate>
+        <link>http://localhost:4000/posts/css/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/css/</guid>
+        
+        <category>front-end</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>

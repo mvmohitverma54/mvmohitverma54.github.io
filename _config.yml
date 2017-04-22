@@ -1,0 +1,47 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Mohit blog
+email: mvmohitverma96@gmail..com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my site made with "Jekyll" and hosted on github , i tried to make it 
+  in Windows ( pain in ass because jekyll is not supported for Windows so any flaws 
+  in this site is accepted ), i made this blog with full dedication and run various dependencies
+  and wrote a few npm scipts as well , it was a new experience as it has Sass preprocessor
+  and  liquid html tags  and what else , just enjot this blog  fellas  --- Mohit Verma .
+baseurl: "" # the subpath of your site, e.g. /blog
+lang: "en"
+url: "http://localhost:4000" # the base hostname & protocol for your site
+twitter_username: mmohitverma54 
+github_username:  mvmohitverma54
+disqus_username:
+
+# Build settings
+markdown: kramdown
+relative_permalinks: false
+permalink: /:categories/:title/
+
+# Posts settings
+future: true
+safe: false
+lsi: false
+excerpt_separator: "\n\n"
+
+
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
+
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+
+images: '/assets/images'
