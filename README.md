@@ -1,5 +1,11 @@
-## Jekyll theme made by Mohit Verma
+## Jekyll theme made by Mohit Verma  not copied from anywhere self made theme 
 
+u can see how fast it loads now 
+feature of jeyll  
+## website speed before - 222ms  , now  3ms  !
+not dependent on any content management system 
+
+more projects coming soon  - Mohit verma
 
 ### Features:
 

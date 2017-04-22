@@ -1,5 +1,5 @@
 ---
-bg: "xrails.jpg"
+bg: "grails.jpg"
 layout: page
 permalink: /posts/
 title: "Archive"

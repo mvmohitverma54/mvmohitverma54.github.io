@@ -2,12 +2,12 @@
 bg: "grails.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About Me"
 permalink: /about/
-summary: "About this blog"
+summary: "About Me ( abhi tak kya kiya hai lol )"
 active: about
 ---
-
+## First of all i made this jekyll theme from ground up not copied i used design inspiration from Hyde and Poole .
 An Undergraduate Engineering student of [Arya college of Engineering and I.T](http://www.aryacollege.in) , jaipur 
  Learning Web development 
  #Skills 

@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Mohit blog
 email: mvmohitverma96@gmail..com
@@ -32,16 +25,13 @@ safe: false
 lsi: false
 excerpt_separator: "\n\n"
 
-
 compress_html:
   comments: ["<!-- ", " -->"]
   clippings: all
   endings: all
 
-
 sass:
   sass_dir: assets/_sass
   style: compressed
-
 
 images: '/assets/images'
