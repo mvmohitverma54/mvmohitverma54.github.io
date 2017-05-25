@@ -1,0 +1,66 @@
+[33mcommit 9b51b23046f9530475fda1c93ab85a3c10299fc6[m
+Merge: c5a3d97 f278857
+Author: mvmohitverma54 <mvmohitverma54@gmail.com>
+Date:   Thu May 25 20:54:59 2017 +0530
+
+     added new markdown
+
+[33mcommit c5a3d972a0037a19562bf2b0a9a611a771fe9f08[m
+Author: mvmohitverma54 <mvmohitverma54@gmail.com>
+Date:   Thu May 25 20:42:00 2017 +0530
+
+    adding a new markdown
+
+[33mcommit f278857a7de253d567ceefb47bfc4bbe234b7fea[m
+Author: Mohit Verma <mvmohitverma54@gmail.com>
+Date:   Tue Apr 25 19:25:07 2017 +0530
+
+    update the image aside tag
+
+[33mcommit 769c7072de089e4f5955a0cd601034b2ad0a0bb6[m
+Author: Mohit Verma <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 14:21:44 2017 +0530
+
+    updated few http to https
+
+[33mcommit c7924927c30d777ad87101516bfa839e1c6b86cf[m
+Author: Mohit Verma <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 14:19:05 2017 +0530
+
+    http to https
+
+[33mcommit 68e34267c2affad85b30a08115af7888f37a8dcd[m
+Author: Mohit Verma <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 14:18:23 2017 +0530
+
+    http to https
+
+[33mcommit bc8d5e72d188768c337157dd01a3e5b36ede90d4[m
+Author: Mohit Verma <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 14:17:20 2017 +0530
+
+    http to https
+
+[33mcommit 975872e2e8e75c6e65479961d21eb711811141a7[m
+Author: Mohit Verma <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 14:15:18 2017 +0530
+
+    Update index.html
+
+[33mcommit 94cda7393306dedd827afa17630ee32787ae28cc[m
+Author: mvmohitverma54 <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 14:08:07 2017 +0530
+
+    added all links to https
+
+[33mcommit f677939f03cdeab9142266142415dc837b0f099a[m
+Author: mvmohitverma54 <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 13:23:39 2017 +0530
+
+    added few things in about
+
+[33mcommit afd28bd1376a0ae6e14ac860e3e67968a7b2c715[m
+Author: mvmohitverma54 <mvmohitverma54@gmail.com>
+Date:   Sat Apr 22 12:52:18 2017 +0530
+
+    finally switched to jekyll
