@@ -10,9 +10,6 @@ tags: ['front-end']
 author: Mohit verma
 ---
 
-# Code Editors
-
-
 Text editor programs designed specifically for editing source code of a website.
 
 -----------------------------------------
