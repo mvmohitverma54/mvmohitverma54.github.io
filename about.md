@@ -19,10 +19,9 @@ An Undergraduate Engineering student of [Arya college of Engineering and I.T](ht
  - FOUNDATION
  - SASS
  - JEKYLL
- - RUBYGEMS
+ - RUBYGEMS ( management )
  - NODEJS
  - NPM MODULES SCRIPTING
- - NETLIFY ( content management system for static site like jekyll , middleman , hexo , grow )
 
 [Projects](https://resume.github.io/?mvmohitverma54) <-- all projects are mentioned in this automated resume generator.  
 
