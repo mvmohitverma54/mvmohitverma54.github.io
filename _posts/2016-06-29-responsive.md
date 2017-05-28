@@ -1,9 +1,9 @@
 ---
 bg: "xrails.jpg"
 layout: post
-title:  "Code Editors"
-crawlertitle: "Code editors"
-summary: "Text editors in use"
+title:  "Responsive Web Designs"
+crawlertitle: "Responsive web designing"
+summary: "Useful links for Responsive Web designs"
 date:   2017-05-28 09:39:47 +0700
 categories: posts
 tags: ['front-end']
