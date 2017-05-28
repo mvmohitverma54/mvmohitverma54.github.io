@@ -4,7 +4,7 @@ layout: page
 title: "About"
 crawlertitle: "About Me"
 permalink: /about/
-summary: "About Me ( abhi tak kya kiya hai lol )"
+summary: "Skillsets and work done along with projects"
 active: about
 ---
 ## First of all i made this jekyll theme from ground up not copied i used design inspiration from Hyde and Poole .
